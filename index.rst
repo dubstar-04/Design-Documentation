@@ -31,12 +31,6 @@ Features
 - **Dimensions** — Create linear, aligned, angular, radial, and diameter dimensions with full dimension style support.
 - **Layer management** — Organise drawings with named layers controlling visibility, colour, and line type.
 - **DXF interoperability** — Open and save industry standard :doc:`DXF <pages/dxf>` files for use with any CAD application.
-- **Touch support** — Pan and zoom on touch-enabled devices.
-
-History
-*******
-Design was originally conceived as a mobile application in 2013. When the platform it was built for was discontinued in 2017, the project was reimagined as a web application so that it could continue to reach users on any device.
-The project has since grown into a full desktop application alongside the web version, driven by the belief that great CAD tools should be free and open to everyone.
 
 Goals:
 *******

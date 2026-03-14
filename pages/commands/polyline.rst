@@ -28,7 +28,7 @@ Workflow
 Tips
 ----
 
-- Use :doc:`ortho` (``F8``) to constrain segments to horizontal or vertical.
+- Use Ortho mode (``F8``) to constrain segments to horizontal or vertical.
 - A polyline can be :doc:`explode`\d into individual line segments.
 - Closing a polyline by snapping back to the start point creates a filled, closed shape compatible with :doc:`hatch`.
 

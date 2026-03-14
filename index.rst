@@ -41,14 +41,18 @@ Goals:
 
 What is Opensource
 -------------------
-Opensource software is a computer program for which the code is made assessible to allow inspection, modification and distribution under specific license terms.
-The sourcecode for Design is hosted on `GitHub <https://github.com/dubstar-04/Design-Documentation>`_
+Opensource software is a computer program for which the code is made accessible to allow inspection, modification and distribution under specific license terms.
+The sourcecode for Design is hosted on GitHub across several repositories:
+
+- `Design <https://github.com/dubstar-04/Design>`_ — the desktop application
+- `Design-Web <https://github.com/dubstar-04/Design-Web>`_ — the web application
+- `Design-Core <https://github.com/dubstar-04/Design-Core>`_ — the shared CAD engine used by both
 
 How Can I Help?
 ----------------
 - Use Design, Enjoy Design and share it with your friends.
 - Help others.
-- Report any problems or suggest improvements on the `Issue Tracker <https://github.com/dubstar-04/Design-Documentation/issues>`_
+- Report any problems or suggest improvements on the `Issue Tracker <https://github.com/dubstar-04/Design/issues>`_
 
 Support Development
 -------------------

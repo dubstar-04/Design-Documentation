@@ -28,8 +28,8 @@ Workflow
 Tips
 ----
 
-- Use :doc:`ortho` (``F8``) to constrain lines to horizontal or vertical directions.
-- Use :doc:`../commands` object snap to start or end lines precisely on existing geometry.
+- Use Ortho mode (``F8``) to constrain lines to horizontal or vertical directions.
+- Use object snap to start or end lines precisely on existing geometry.
 - Press ``Space`` at the *Specify first point* prompt to continue from the last drawn point.
 - Type coordinates directly (``x,y``) for precise placement.
 

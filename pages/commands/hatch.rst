@@ -5,6 +5,10 @@ Hatch
 
 Fills an enclosed area with a repeating pattern.
 
+.. image:: ../../icons/hatch.svg
+   :width: 48
+   :alt: Hatch icon
+
 ----
 
 Description

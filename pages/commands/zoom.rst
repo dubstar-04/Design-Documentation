@@ -5,6 +5,10 @@ Zoom
 
 Changes the magnification of the active view.
 
+.. image:: ../../icons/zoom.svg
+   :width: 48
+   :alt: Zoom icon
+
 ----
 
 Description

@@ -5,6 +5,10 @@ Purge
 
 Removes unused named objects from the drawing.
 
+.. image:: ../../icons/purge.svg
+   :width: 48
+   :alt: Purge icon
+
 ----
 
 Description

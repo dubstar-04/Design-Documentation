@@ -5,6 +5,10 @@ MatchProp
 
 Applies the properties of one object to one or more other objects.
 
+.. image:: ../../icons/matchprop.svg
+   :width: 48
+   :alt: MatchProp icon
+
 ----
 
 Description

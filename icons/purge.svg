@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+
+  <!-- Handle -->
+  <rect x="44" y="8" width="8" height="26" rx="3" fill="#808080" stroke="#606060" stroke-width="2"/>
+
+  <!-- Back wall of pan -->
+  <rect x="20" y="32" width="56" height="8" fill="#606060" stroke="#404040" stroke-width="2"/>
+
+  <!-- Pan body (trapezoid) -->
+  <polygon points="20,40 76,40 86,78 10,78" fill="#808080" stroke="#606060" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- Front lip -->
+  <rect x="10" y="78" width="76" height="7" rx="2" fill="#606060" stroke="#404040" stroke-width="2"/>
+
+  <!-- Red dot at top of handle -->
+  <circle cx="48" cy="8" r="6" fill="#ff0000" stroke="#cc0000" stroke-width="2"/>
+
+</svg>

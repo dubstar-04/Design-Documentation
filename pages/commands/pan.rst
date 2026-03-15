@@ -5,6 +5,10 @@ Pan
 
 Shifts the view without changing the zoom level or orientation.
 
+.. image:: ../../icons/pan.svg
+   :width: 48
+   :alt: Pan icon
+
 ----
 
 Description

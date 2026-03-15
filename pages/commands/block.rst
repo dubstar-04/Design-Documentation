@@ -5,6 +5,10 @@ Block
 
 Creates a reusable block definition from selected objects.
 
+.. image:: ../../icons/block.svg
+   :width: 48
+   :alt: Block icon
+
 ----
 
 Description

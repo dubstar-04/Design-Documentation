@@ -5,6 +5,10 @@ Explode
 
 Breaks a compound object into its component objects.
 
+.. image:: ../../icons/explode.svg
+   :width: 48
+   :alt: Explode icon
+
 ----
 
 Description

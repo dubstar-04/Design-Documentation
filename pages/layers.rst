@@ -85,10 +85,11 @@ Tips
 - Use clear, consistent naming conventions across drawings so layers are predictable — for example, prefix layers by discipline: ``A-Walls``, ``S-Columns``.
 - Turn off layers you are not currently editing to reduce visual clutter without losing the geometry.
 - Assign a distinct colour to each layer to make it easy to identify which layer an entity belongs to at a glance.
+- Over time drawings can accumulate unused layers. Use the :doc:`/pages/commands/tools/purge` command (``P U``) to remove them and keep the drawing clean.
 
 ----
 
 See Also
 --------
 
-:doc:`/pages/shortcuts` | :doc:`/pages/dxf`
+:doc:`/pages/shortcuts` | :doc:`/pages/commands/tools/purge` | :doc:`/pages/dxf`

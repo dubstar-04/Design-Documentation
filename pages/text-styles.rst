@@ -29,10 +29,6 @@ Text Style Properties
      - The typeface used to render the text.
    * - **Height**
      - The default text height. If set to ``0``, the height is specified each time a text entity is created.
-   * - **Width Factor**
-     - Scales the width of each character relative to its height. A value of ``1.0`` is normal width. Values below ``1.0`` compress the text; values above ``1.0`` expand it.
-   * - **Oblique Angle**
-     - Slants the text by the specified angle in degrees. ``0`` is upright; positive values lean to the right.
    * - **Backwards**
      - Mirrors the text horizontally so it reads right to left.
    * - **Upside Down**
@@ -74,10 +70,11 @@ Tips
 - Set the height to ``0`` in the style definition if you want to be prompted for a height each time you place text. Set a fixed height if all text of that style should be the same size.
 - Create dedicated styles for different drawing elements — for example, a larger bold style for titles and a smaller style for annotations.
 - Text styles are stored in the DXF file, so drawings shared with other applications will retain their style definitions.
+- Unused text styles can accumulate over time. Use the :doc:`/pages/commands/tools/purge` command (``P U``) to remove any styles that are no longer referenced by entities in the drawing.
 
 ----
 
 See Also
 --------
 
-:doc:`/pages/layers` | :doc:`/pages/commands/entities/text` | :doc:`/pages/dxf`
+:doc:`/pages/layers` | :doc:`/pages/commands/entities/text` | :doc:`/pages/commands/tools/purge` | :doc:`/pages/dxf`

@@ -24,9 +24,6 @@ Workflow
 3. **Select objects to trim:** Click the portion of each object you want to remove (the side to cut off).
 4. Continue clicking objects to trim, then press ``Enter`` or ``Escape`` to end.
 
-.. tip::
-   Press ``Enter`` at the *select cutting edges* prompt without selecting anything to use all objects as potential cutting edges — then simply click the parts to trim.
-
 Tips
 ----
 

@@ -24,9 +24,6 @@ Workflow
 3. **Select objects to extend:** Click the end of each object you want to lengthen toward the boundary.
 4. Continue clicking objects to extend, then press ``Enter`` or ``Escape`` to end.
 
-.. tip::
-   Press ``Enter`` at the *select boundary edges* prompt without selecting anything to use all objects as potential boundaries — then simply click the ends to extend.
-
 Tips
 ----
 

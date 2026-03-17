@@ -7,6 +7,7 @@ Welcome to Design Documentation
    :hidden:
 
    pages/commands
+   pages/shortcuts
    pages/dxf
 
 What is Design

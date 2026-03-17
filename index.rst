@@ -8,6 +8,7 @@ Welcome to Design Documentation
 
    pages/commands
    pages/shortcuts
+   pages/layers
    pages/dxf
 
 What is Design

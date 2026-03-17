@@ -7,6 +7,7 @@ Welcome to Design Documentation
    :hidden:
 
    pages/commands
+   pages/command-line
    pages/shortcuts
    pages/layers
    pages/text-styles

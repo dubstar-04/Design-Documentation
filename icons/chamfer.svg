@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96" height="96" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg">
+  <!-- Horizontal line segment (trimmed at chamfer point) -->
+  <rect x="8" y="72" width="36" height="8" fill="#808080"/>
+  <!-- Vertical line segment (trimmed at chamfer point) -->
+  <rect x="72" y="8" width="8" height="36" fill="#808080"/>
+  <!-- Red chamfer line replacing the sharp corner -->
+  <line x1="44" y1="76" x2="76" y2="44" stroke="#ff0000" stroke-width="8" stroke-linecap="round"/>
+  <!-- Red dots at the chamfer endpoints -->
+  <circle cx="44" cy="76" r="6" fill="#ff0000"/>
+  <circle cx="76" cy="44" r="6" fill="#ff0000"/>
+</svg>

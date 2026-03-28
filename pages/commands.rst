@@ -22,11 +22,13 @@ Commands
    commands/entities/polyline
    commands/entities/rectangle
    commands/entities/text
+   commands/tools/chamfer
    commands/tools/copy
    commands/tools/distance
    commands/tools/erase
    commands/tools/explode
    commands/tools/extend
+   commands/tools/fillet
    commands/tools/identify
    commands/tools/matchprop
    commands/tools/move
@@ -68,9 +70,11 @@ Command aliases for modifying and measuring objects. Enter the alias followed by
 Icon                                    Alias               Description
 ====================================    =================   ========================================================================================================================
 .. image:: ../icons/copy.svg            ``C O``             :doc:`commands/tools/copy` — Copy selected objects from a base point to a destination point or distance (select first or during).
+.. image:: ../icons/chamfer.svg         ``C H A``           :doc:`commands/tools/chamfer` — Bevel the corner between two lines or polyline segments with a straight chamfer line.
 .. image:: ../icons/distance.svg        ``D I``             :doc:`commands/tools/distance` — Pick two points to measure the distance between them.
 .. image:: ../icons/erase.svg           ``E`` / ``Del``     :doc:`commands/tools/erase` — Remove selected objects (select first or during).
 .. image:: ../icons/extend.svg          ``E X``             :doc:`commands/tools/extend` — Select boundary edge(s) followed by object(s) to extend.
+.. image:: ../icons/fillet.svg          ``F``               :doc:`commands/tools/fillet` — Round the corner between two lines or polyline segments with an arc of a specified radius.
 .. image:: ../icons/identify.svg        ``I D``             :doc:`commands/tools/identify` — Pick a single point to display its co-ordinates.
 .. image:: ../icons/move.svg            ``M``               :doc:`commands/tools/move` — Move selected objects from a base point to a destination point or distance (select first or during).
 .. image:: ../icons/matchprop.svg       ``M A``             :doc:`commands/tools/matchprop` — Apply the properties of a selected object to other objects.

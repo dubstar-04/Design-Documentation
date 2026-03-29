@@ -12,6 +12,7 @@ Welcome to Design Documentation
    pages/layers
    pages/text-styles
    pages/dxf
+   pages/development
 
 What is Design
 --------------

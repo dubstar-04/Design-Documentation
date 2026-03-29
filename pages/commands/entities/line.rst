@@ -23,7 +23,11 @@ Workflow
 2. **Specify first point:** Click a point on the canvas or type coordinates (e.g. ``10,20``).
 3. **Specify next point:** Click the next point or type a distance and angle.
 4. Continue specifying points to draw further connected segments.
-5. Press ``Enter`` or ``Escape`` to end the command.
+5. Press ``Enter`` or ``Escape`` to end the command, or type ``Close`` to join the last point back to the first.
+
+Options available at the *Specify next point* prompt:
+
+- **Close** — Connects the last point back to the first point, closing the shape. Available after two or more segments have been drawn.
 
 Tips
 ----

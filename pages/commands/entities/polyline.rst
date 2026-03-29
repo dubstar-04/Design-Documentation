@@ -23,7 +23,14 @@ Workflow
 2. **Specify start point:** Click a point on the canvas or type coordinates.
 3. **Specify next point:** Click the next point or type a distance.
 4. Continue specifying points to add further segments.
-5. Press ``Enter`` or ``Escape`` to end the command and close the polyline.
+5. Press ``Enter`` or ``Escape`` to end the command, or type ``Close`` to join back to the start.
+
+Options available at the *Specify next point* prompt:
+
+- **Arc** — Switches to arc segment mode. Subsequent points are connected with arcs rather than straight lines. Available after the first segment.
+- **Line** — Switches back to straight line segment mode when in arc mode. Available after the first segment.
+- **Close** — Closes the polyline by connecting the last point back to the first, creating a closed shape. Available after two or more segments have been drawn.
+- **Undo** — Removes the last point and returns to the previous step. Available after the first segment.
 
 Tips
 ----

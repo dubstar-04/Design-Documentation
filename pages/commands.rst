@@ -36,6 +36,7 @@ Commands
    commands/tools/pan
    commands/tools/purge
    commands/tools/rotate
+   commands/tools/scale
    commands/tools/trim
    commands/tools/zoom
 
@@ -83,6 +84,7 @@ Icon                                    Alias               Description
 .. image:: ../icons/pan.svg             ``P``               :doc:`commands/tools/pan` — Shift the view without changing orientation or magnification.
 .. image:: ../icons/purge.svg           ``P U``             :doc:`commands/tools/purge` — Remove unused items such as block definitions, layers, or styles.
 .. image:: ../icons/rotate.svg          ``R O``             :doc:`commands/tools/rotate` — Rotate selected objects about a base point to a defined angle (select first or during).
+.. image:: ../icons/scale.svg           ``S C``             :doc:`commands/tools/scale` — Enlarge or reduce selected objects by a scale factor relative to a base point (select first or during).
 .. image:: ../icons/trim.svg            ``T R``             :doc:`commands/tools/trim` — Select trim boundary object(s) followed by object(s) to trim.
 .. image:: ../icons/explode.svg         ``X``               :doc:`commands/tools/explode` — Break a compound object into its component objects.
 .. image:: ../icons/zoom.svg            ``Z``               :doc:`commands/tools/zoom` — Change the magnification of the active view.

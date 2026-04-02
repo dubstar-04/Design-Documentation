@@ -31,6 +31,7 @@ Commands
    commands/tools/fillet
    commands/tools/identify
    commands/tools/matchprop
+   commands/tools/mirror
    commands/tools/move
    commands/tools/pan
    commands/tools/purge
@@ -76,6 +77,7 @@ Icon                                    Alias               Description
 .. image:: ../icons/extend.svg          ``E X``             :doc:`commands/tools/extend` — Select boundary edge(s) followed by object(s) to extend.
 .. image:: ../icons/fillet.svg          ``F``               :doc:`commands/tools/fillet` — Round the corner between two lines or polyline segments with an arc of a specified radius.
 .. image:: ../icons/identify.svg        ``I D``             :doc:`commands/tools/identify` — Pick a single point to display its co-ordinates.
+.. image:: ../icons/mirror.svg          ``M I``             :doc:`commands/tools/mirror` — Mirror selected objects about a line defined by two points, with the option to erase the source.
 .. image:: ../icons/move.svg            ``M``               :doc:`commands/tools/move` — Move selected objects from a base point to a destination point or distance (select first or during).
 .. image:: ../icons/matchprop.svg       ``M A``             :doc:`commands/tools/matchprop` — Apply the properties of a selected object to other objects.
 .. image:: ../icons/pan.svg             ``P``               :doc:`commands/tools/pan` — Shift the view without changing orientation or magnification.

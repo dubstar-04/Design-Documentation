@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="96"
+   height="96"
+   viewBox="0 0 96 96">
+  <!-- Scale icon: small solid rectangle (original) and large dashed rectangle (scaled result) -->
+  <!-- Both share the same bottom-left corner to indicate the base point -->
+
+  <!-- Large dashed rectangle (scaled result) -->
+  <rect x="8" y="8" width="80" height="80"
+        style="fill:none;stroke:#808080;stroke-width:4;stroke-dasharray:8,5;stroke-linejoin:miter"/>
+
+  <!-- Small solid rectangle (original, anchored at bottom-left) -->
+  <rect x="8" y="56" width="32" height="32"
+        style="fill:#808080;fill-opacity:1;stroke:none"/>
+</svg>

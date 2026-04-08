@@ -8,6 +8,8 @@ Welcome to Design Documentation
 
    pages/commands
    pages/command-line
+   pages/object-snaps
+   pages/tracking
    pages/shortcuts
    pages/layers
    pages/text-styles

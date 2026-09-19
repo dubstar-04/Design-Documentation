@@ -33,6 +33,7 @@ Commands
    commands/tools/matchprop
    commands/tools/mirror
    commands/tools/move
+   commands/tools/offset
    commands/tools/pan
    commands/tools/purge
    commands/tools/rotate
@@ -81,6 +82,7 @@ Icon                                    Alias               Description
 .. image:: ../icons/mirror.svg          ``M I``             :doc:`commands/tools/mirror` — Mirror selected objects about a line defined by two points, with the option to erase the source.
 .. image:: ../icons/move.svg            ``M``               :doc:`commands/tools/move` — Move selected objects from a base point to a destination point or distance (select first or during).
 .. image:: ../icons/matchprop.svg       ``M A``             :doc:`commands/tools/matchprop` — Apply the properties of a selected object to other objects.
+.. image:: ../icons/offset.svg           ``O``               :doc:`commands/tools/offset` — Create a parallel copy of a line, arc, circle, or polyline at a specified distance or through a point.
 .. image:: ../icons/pan.svg             ``P``               :doc:`commands/tools/pan` — Shift the view without changing orientation or magnification.
 .. image:: ../icons/purge.svg           ``P U``             :doc:`commands/tools/purge` — Remove unused items such as block definitions, layers, or styles.
 .. image:: ../icons/rotate.svg          ``R O``             :doc:`commands/tools/rotate` — Rotate selected objects about a base point to a defined angle (select first or during).

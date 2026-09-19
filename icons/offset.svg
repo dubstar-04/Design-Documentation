@@ -1,0 +1,26 @@
+<svg gpa:rendering="symbolic" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gpa="https://www.gtk.org/grappa" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" gpa:version="1" gpa:state-names="outline empty" gpa:state="0" width="96" height="96" viewBox="0 0 16 16">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Wartybix</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>lines nodes shape join combine cut line-extend</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Solid filled arrowhead, matching the move icon's arrow style -->
+  <path id="arrow" style="fill:#808080;fill-opacity:1;stroke:none"
+        d="M 7 8 L 7 10.67 L 7.98 9.69 L 11.08 12.79 L 11.79 12.08 L 8.69 8.98 L 9.67 8 Z" />
+  <path id="outer" class="transparent-fill foreground-stroke" style="font-variation-settings:'opsz' 32, 'wght' 900;fill:none;fill-opacity:0.218535;stroke:#808080;stroke-width:0.67;stroke-linejoin:round;stroke-dasharray:1.33,0.83;paint-order:stroke fill markers" fill="none" fill-opacity="0.218535" stroke="#808080" stroke-opacity="1" stroke-width="0.67" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="1.33,0.83" paint-order="stroke fill markers" d="M 2 16 L 2 9.5 C 2 5.36, 5.13 2, 9 2 L 16 2" gpa:stroke="foreground" gpa:stroke-minwidth="25%" gpa:stroke-maxwidth="150%" >
+  </path>
+  <path id="inner" class="transparent-fill foreground-stroke" style="font-variation-settings:'opsz' 32, 'wght' 900;fill:none;fill-opacity:0.218535;stroke:#808080;stroke-width:0.67;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers" opacity="0.25" fill="none" fill-opacity="0.218535" stroke="#808080" stroke-opacity="1" stroke-width="0.67" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" paint-order="stroke fill markers" d="M 16 12 L 14.5455 12 C 13.1396 12, 12 13.1396, 12 14.5455 L 12 15.0909 L 12 16" gpa:stroke="foreground" gpa:stroke-minwidth="25%" gpa:stroke-maxwidth="150%" >
+  </path>
+</svg>
